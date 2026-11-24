@@ -25,10 +25,19 @@
     display: grid;
     }
 
+    .container2 {
+    height: 40vh;
+    display: grid;
+    }
+
     .principal{
     background-image: url("");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
     text-align: center;
+    }
+    .site{
+        box-shadow: #00030C;
+        color: rgb(0, 0, 0);
     }
